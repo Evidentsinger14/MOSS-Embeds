@@ -8,7 +8,7 @@
     "fields": [
       {
         "name": "Issues with your setup",
-        "value": "You can easily spot issues in your setup by running `/ess version`\n\nMake sure you have:\n**\- [EssentialsXChat](https://ci.ender.zone/job/EssentialsX/)**\n**\- [Vault](https://www.spigotmc.org/resources/34315/)**\n**\- A permission plugin** (see `?lp`)"
+        "value": "You can easily spot issues in your setup by running `/ess version`\n\nMake sure you have:\n**- [EssentialsXChat](https://ci.ender.zone/job/EssentialsX/)**\n**- [Vault](https://www.spigotmc.org/resources/34315/)**\n**- A permission plugin** (see `?lp`)"
       },
       {
         "name": "Issues with LuckPerms",
