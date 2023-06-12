@@ -1,0 +1,19 @@
+{
+  "embed": {
+    "title": "Chat information",
+    "color": 16305679,
+    "footer": {
+      "text": "Requested by {USER}"
+     },
+    "fields": [
+      {
+        "name": "Issues with your setup",
+        "value": "You can easily spot issues in your setup by running `/ess version`\n\nMake sure you have:\n**\- [EssentialsXChat](https://ci.ender.zone/job/EssentialsX/)**\n**\- [Vault](https://www.spigotmc.org/resources/34315/)**\n**\- A permission plugin** (see `?lp`)"
+      },
+      {
+        "name": "Issues with LuckPerms",
+        "value": "If the prefix/suffix is not correctly shown at `/lp user <user> info` it isn't properly configured in LuckPerms.\n\n`/lp user <user> meta info` gives you more insight.\nYou can also go to the [LuckPerms Discord](https://discord.gg/LuckPerms) for further support"
+      }
+    ]
+  }
+}
