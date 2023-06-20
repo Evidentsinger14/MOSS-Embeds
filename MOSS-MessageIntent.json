@@ -1,11 +1,21 @@
 {
-  "embed": {
-    "color": 3319890,
-    "timestamp": "{TIMESTAMP_NOW}",
-    "title": "Message Content Intent",
-    "description": "Discord requires you to have Message Content Intents enabled for EssentialsX Discord to work properly. You can enable the privileged intent by going to your bot application's page on the Discord Developer portal, then navigating to `Bot > Privileged Gateway Intents` and turning on `Message Content Intent`. Once you restart your server, EssentialsX Discord will be able to read messages from your Discord server once again. \nFor more information, see [this message](https://ptb.discord.com/channels/390942438061113344/426460619277991936/1015033747185356810)",
-    "footer": {
-      "text": "Requested by {USER}"
+  "content": "",
+  "tts": false,
+  "embeds": [
+    {
+      "id": 82707118,
+      "description": "Discord **Requires** Message Content Intents to be enabled, for bots to read guild messages. You can enable the privileged intent by going to your bot application's page on the [Discord Developer Portal](https://discord.com/developers), then navigating to `Bot > Privileged Gateway Intents` and enabling `Message Content Intent`. Restart your server, and EssentialsX will be able to read messages from your guild. \n\nFor more information, see [this message](https://ptb.discord.com/channels/390942438061113344/426460619277991936/1015033747185356810)",
+      "fields": [],
+      "thumbnail": {
+        "url": "https://avatars.githubusercontent.com/u/34553309?s=200"
+      },
+      "footer": {
+        "text": "Requested by {USER}"
+      },
+      "color": 14814252,
+      "title": "Message Content Intent"
     }
-  }
+  ],
+  "components": [],
+  "actions": {}
 }
