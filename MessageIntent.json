@@ -8,13 +8,12 @@
       "fields": [],
       "author": {
         "icon_url": "https://avatars.githubusercontent.com/u/34553309?s=200",
-        "name": "Chat Information"
+        "name": "Message Content Intent"
       },
       "footer": {
         "text": "Requested by {USER}"
       },
-      "color": 14814252,
-      "title": "Message Content Intent"
+      "color": 14814252
     }
   ],
   "components": [],
